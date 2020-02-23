@@ -9,4 +9,5 @@ https://github.com/golang-standards/project-layout<br>
 https://medium.com/golang-learn/go-project-layout-e5213cdcfaa2
 
 ### golang多项目结构和gopath
-https://stackoverflow.com/questions/36017724/can-i-have-multiple-gopath-directories
+https://stackoverflow.com/questions/36017724/can-i-have-multiple-gopath-directories<br>
+https://www.digitalocean.com/community/tutorials/understanding-the-gopath
