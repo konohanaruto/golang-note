@@ -16,3 +16,4 @@ https://www.digitalocean.com/community/tutorials/understanding-the-gopath
 https://blog.learngoprogramming.com/golang-variadic-funcs-how-to-patterns-369408f19085<br>
 https://stackoverflow.com/questions/23669720/meaning-of-interface-dot-dot-dot-interface
 
+### golang枚举类型和itoa
